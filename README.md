@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi. I'm Emilio, a software developer with a background as a classically trained violinist and music teacher who loves combining creativity with problem solving to create new things.
 
-I'm currently working on:<br>🎶 Note-d | Social media Flask app for music enthusiasts <br>🛍️ Vesta | E-commerce MERN app for a fake designer<br><br>I'm currently learning:<br>Flask & MERN<br><br>Fun Fact:<br>I'm a classically trained violinist and have a dog name Chewy<br>... and yes he looks exactly how you think he looks 🐶
+I'm currently working on:<br>🎶 Note-d | Social media Flask app for music enthusiasts <br>🛍️ Vesta | E-commerce MERN app for a fake designer<br><br>I'm currently learning:<br>React, Material UI<br><br>Fun Fact:<br>I'm a classically trained violinist and have a dog name Chewy<br>... and yes he looks exactly how you think he looks 🐶
 
 
 ## 🌐 Socials:
