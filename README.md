@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi! I'm Emilio, a full-stack developer with a background as a classically trained violinist, music teacher, and arts administrator who loves combining creativity with problem solving to high quality products.
 
-I'm currently working on:<br>🎶 Note-d | Social media app for music enthusiasts <br>🛍️ Vesta | An e-commerce app for a fake designer<br><br> 🖥️Project-S | A project management app for software development teams (think Trello or Jira but the lite version)
+I'm currently working on:<br>🎶 Note-d | Social media app for music enthusiasts <br>🛍️ Vesta | An e-commerce app for a fake designer<br>🖥️Project-S | A project management app for software development teams (think Trello or Jira but the lite version)
 
 
 ## 🌐 Socials:
