@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emilio Vazquez</h1>
-<h3 align="center">A Cybersecurity Analyst with a background as a classically trained violinist, music teacher, and arts administrator.</h3>
+<h3 align="center">A cybersecurity analyst with a background as a classically trained violinist, music teacher, and arts administrator.</h3>
 
 - 🔭 I’m currently working on [Noted](https://github.com/emilio-fv/Noted)
 
