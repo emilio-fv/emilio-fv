@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Emilio Vazquez</h1>
 <h3 align="center">A cybersecurity analyst with a background as a classically trained violinist, music teacher, and arts administrator.</h3>
 
-- 🔭 I’m currently working on [Noted](https://github.com/emilio-fv/Noted)
+- 📄 Learn more about me [https://emilio-fv.github.io/portfolio-website/content/resume.pdf](https://emilio-fv.github.io/portfolio-website/content/resume.pdf)
 
-- 🌱 I’m currently learning **penetration testing**
-
-- 👨‍💻 All of my projects are available at [https://emilio-fv.github.io/portfolio-website/](https://emilio-fv.github.io/portfolio-website/)
+- 👨‍💻 Checkout my projects at [https://emilio-fv.github.io/portfolio-website/](https://emilio-fv.github.io/portfolio-website/)
 
 - 📫 How to reach me **emiliofv.sd@gmail.com**
 
-- 📄 Learn about my experiences [https://emilio-fv.github.io/portfolio-website/content/resume.pdf](https://emilio-fv.github.io/portfolio-website/content/resume.pdf)
-
-- ⚡ Fun fact **I'm red & green color blind so Christmas is weird**
+- ⚡ Fun fact **I'm red & green color blind so Christmas is weird time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
